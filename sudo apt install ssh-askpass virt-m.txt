@@ -1,0 +1,37 @@
+sudo apt install ssh-askpass virt-manager
+
+download window iso
+
+lscpu
+
+egrep -c '(vmx|svm)' /proc/cpuinfo
+
+sudo apt update
+
+
+sudo apt install qemu-kvm virt-manager brigde-utils
+
+sudo reboot now
+
+sudo systemctl status libvirtd
+
+
+sudo systemctl enable lbvirtd.service
+sudo systemctl start lbvirtd.service
+
+groups
+
+sudo useradd -g $USER libvirt
+sudo useradd -g $USER libvirt-kvm
+
+
+vm kulla ponum --> new vm create pannu --> local install media--> pulse kudukanum -->  brose-->downlod panna iso image direct path ah kudukanum -> pulse kudukanum 
+\
+
+download--> click image -->choose volume
+
+microft windoow 
+
+9000 4
+60
+
