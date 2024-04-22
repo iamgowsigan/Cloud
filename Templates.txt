@@ -1,0 +1,24 @@
+CLOUDSIM 
+
+1,Open eclipse
+2,Create a new java project
+3,Project name kuudthuranum
+4,Default location change pannitu clousim 5.0 kulla poiranum
+5,Finish
+
+6,Right click-- properties---java build path - - - libraries - - - modulepath - - ad external jar files - - apply and close
+
+7,Org. Cloudbus.Cloudsim.examples ah search pannanum
+8,Athukulla ulla java files ah run pannanum
+
+
+CLOUD ANALYST
+
+1,Open Project 
+2,Unzip Cloud analyst already 
+3,In open project open cloud analyst
+4,Next click run button
+5,Click configuration button -> main configuration --> mela irukuratha add new pannanum region ah maathanum --> datacenter move pandrom -->
+add new (DC2) create pannanum --> main configuration keela datacenter la DC2 choose pannanum --> done 
+6, Advance la default ah round robin la thaan irukum --- if we want to change round robin to something --> change pannitu --> done pannanum
+7,After configuration clik Run Simulation --> display panni paakalam
